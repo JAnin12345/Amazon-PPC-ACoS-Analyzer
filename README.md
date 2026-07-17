@@ -42,6 +42,16 @@ Amazon-PPC-ACoS-Analyzer/
 ├── requirements.txt          # Python dependencies
 └── LICENSE
 
+
+
+Negative targeting: Search terms with $10+ in Spend and exactly 0 Sales.
+Keyword Harvesting: High-performing search terms with Sales > 0 and ACoS < 30% (ready to be graduated to exact match keywords).
+Optimize keyword: Active search terms with Sales > 0 and ACoS ≥ 30% (needs bid or placement adjustments).
+Under Threshold: Terms that have spent less than $10 and have no sales yet (not enough data to call waste
+
+
+
+
 Tech Stack
 Tool	Purpose
 Excel	Initial data validation, cleaning, and data preparation
