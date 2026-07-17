@@ -1,6 +1,3 @@
-# Amazon-PPC-ACoS-Analyzer
-Python tool for analyzing Amazon PPC search term reports and optimizing ACoS.using other tools such as 
-
 # Amazon PPC ACoS Analyzer 📊
 
 An end-to-end data engineering and analytics pipeline designed to ingest raw Amazon Search Term Reports, clean and process the data, perform SQL-based performance analysis, and visualize key advertising metrics like ACoS (Advertising Cost of Sales) and ROAS (Return on Ad Spend) in Power BI.
