@@ -44,6 +44,8 @@ Amazon-PPC-ACoS-Analyzer/
 
 
 <img width="1211" height="822" alt="GUI_screenshot" src="https://github.com/user-attachments/assets/07bb2037-efaa-4cde-932f-d761c248714b" />
+<img width="1221" height="831" alt="GUI_screenshot" src="https://github.com/user-attachments/assets/9140f193-2182-4cf8-a06d-f527d5fd386d" />
+
 
 
 
