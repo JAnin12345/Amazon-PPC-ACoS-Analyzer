@@ -43,6 +43,10 @@ Amazon-PPC-ACoS-Analyzer/
 └── LICENSE
 
 
+<img width="1211" height="822" alt="GUI_screenshot" src="https://github.com/user-attachments/assets/07bb2037-efaa-4cde-932f-d761c248714b" />
+
+
+
 
 Negative targeting: Search terms with $10+ in Spend and exactly 0 Sales.
 Keyword Harvesting: High-performing search terms with Sales > 0 and ACoS < 30% (ready to be graduated to exact match keywords).
