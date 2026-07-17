@@ -55,6 +55,7 @@ This is my file structure text...
 
 Next section of your README...
 
+![GUI_screenshot](https://github.com/user-attachments/assets/9d471a0d-66a1-4a87-a0fa-178d2cf7a70f)
 
 
 Negative targeting: Search terms with $10+ in Spend and exactly 0 Sales.
