@@ -43,12 +43,17 @@ Amazon-PPC-ACoS-Analyzer/
 └── LICENSE
 
 
-<img width="1211" height="822" alt="GUI_screenshot" src="https://github.com/user-attachments/assets/07bb2037-efaa-4cde-932f-d761c248714b" />
-<img width="1221" height="831" alt="GUI_screenshot" src="https://github.com/user-attachments/assets/9140f193-2182-4cf8-a06d-f527d5fd386d" />
-<img width="1211" height="822" alt="GUI_screenshot" src="https://github.com/user-attachments/assets/07bb2037-efaa-4cde-932f-d76...">
-<img width="1221" height="831" alt="GUI_screenshot" src="https://github.com/user-attachments/assets/9140f133-2182-4cf8-a06d-f52...">
+<img width="1221" height="831" alt="GUI_screenshot" src="https://github.com/user-attachments/assets/9d471a0d-66a1-4a87-a0fa-178d2cf7a70f" />
 
+# Your Project Title
 
+This is my file structure text...
+...
+└── LICENSE
+
+<img width="1221" height="831" alt="GUI_screenshot" src="https://github.com/user-attachments/assets/9d471a0d-66a1-4a87-a0fa-178d2cf7a70f" />
+
+Next section of your README...
 
 
 
