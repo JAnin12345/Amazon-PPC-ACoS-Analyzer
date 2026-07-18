@@ -44,9 +44,9 @@ Amazon-PPC-ACoS-Analyzer/
 
 # Amazon PPC Analyzer
 
-## Dashboard
+## docs
 
-![Dashboard](images/dashboard.png)
+![Docs](images/dashboard.png)
 
 ## Workflow
 
