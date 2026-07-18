@@ -42,6 +42,17 @@ Amazon-PPC-ACoS-Analyzer/
 ├── requirements.txt          # Python dependencies
 └── LICENSE
 
+# Amazon PPC Analyzer
+
+## Dashboard
+
+![Dashboard](images/dashboard.png)
+
+## Workflow
+
+![Workflow](images/workflow.png)
+
+
 
 <img width="1221" height="831" alt="GUI_screenshot" src="https://github.com/user-attachments/assets/9d471a0d-66a1-4a87-a0fa-178d2cf7a70f" />
 
